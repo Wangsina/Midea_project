@@ -1,0 +1,1322 @@
+/*# sourceMappingURL=module_v2.css.map */
+@font-face {
+	font-family:'MideaIcon';src:url("//g.mdcdn.cn/h5/css/common/fonts/MideaIcon.eot?e1h033");src:url("//g.mdcdn.cn/h5/css/common/fonts/MideaIcon.eot?e1h033#iefix") format("embedded-opentype"),url("//g.mdcdn.cn/h5/css/common/fonts/MideaIcon.ttf?e1h033") format("truetype"),url("//g.mdcdn.cn/h5/css/common/fonts/MideaIcon.woff?e1h033") format("woff"),url("//g.mdcdn.cn/h5/css/common/fonts/MideaIcon.svg?e1h033#midea-icon") format("svg");font-weight:normal;font-style:normal
+}
+
+.midea-icon {
+	font-family: 'MideaIcon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale
+}
+
+.icon-pro_more:before {
+	content: "\ea09";
+	color: #fce4b7
+}
+
+.icon-pen:before {
+	content: "\ea08"
+}
+
+.icon-calculator:before {
+	content: "\e9ff";
+	color: #604b22
+}
+
+.icon-pro_bag:before {
+	content: "\ea00";
+	color: #ffe7b9
+}
+
+.icon-pro_clock:before {
+	content: "\ea01";
+	color: #ffe7b9
+}
+
+.icon-pro_coupon:before {
+	content: "\ea02";
+	color: #ffe7b9
+}
+
+.icon-pro_score:before {
+	content: "\ea03";
+	color: #ffe7b8
+}
+
+.icon-pro_tag:before {
+	content: "\ea04";
+	color: #ffe7b9
+}
+
+.icon-pro_text:before {
+	content: "\ea05";
+	color: #ffe7b9
+}
+
+.icon-pro_umbrella:before {
+	content: "\ea06";
+	color: #ffe7b9
+}
+
+.icon-pro_vip:before {
+	content: "\ea07";
+	color: #ffe7b9
+}
+
+.icon-qualification:before {
+	content: "\e9fd"
+}
+
+.icon-qualification_fill:before {
+	content: "\e9fe"
+}
+
+.icon-portal_score_bold:before {
+	content: "\e9f9";
+	color: #fff
+}
+
+.icon-portal_xi_circle:before {
+	content: "\e9fa";
+	color: #fff
+}
+
+.icon-portal_coupon_bold:before {
+	content: "\e9fb";
+	color: #fff
+}
+
+.icon-portal_shi_circle:before {
+	content: "\e9fc";
+	color: #fff
+}
+
+.icon-consume_reward .path1:before {
+	content: "\e9f6";
+	color: #cea86a
+}
+
+.icon-consume_reward .path2:before {
+	content: "\e9f7";
+	margin-left: -1em;
+	color: #fff
+}
+
+.icon-consume_reward .path3:before {
+	content: "\e9f8";
+	margin-left: -1em;
+	color: #fff
+}
+
+.icon-portal_sf:before {
+	content: "\e9f5";
+	color: #d8d8d8
+}
+
+.icon-up_to_gold:before {
+	content: "\e9f2";
+	color: #deb249
+}
+
+.icon-up_to_diamond:before {
+	content: "\e9f3";
+	color: #57657a
+}
+
+.icon-birthday_score:before {
+	content: "\e9f4";
+	color: #ff7a10
+}
+
+.icon-portal_score_fill:before {
+	content: "\e9ef";
+	color: #ba8333
+}
+
+.icon-portal_sevice_fill:before {
+	content: "\e9f0";
+	color: #ba8333
+}
+
+.icon-portal_coupon_fill:before {
+	content: "\e9f1";
+	color: #ba8333
+}
+
+.icon-no_order:before {
+	content: "\e9ee";
+	color: #c7c7cc
+}
+
+.icon-diamond_member:before {
+	content: "\e9ec";
+	color: #910505
+}
+
+.icon-regular_member:before {
+	content: "\e9ed";
+	color: #0387ff
+}
+
+.icon-price_protect:before {
+	content: "\e9eb";
+	color: #c96cd7
+}
+
+.icon-growth_lock:before {
+	content: "\e9dd";
+	color: #a1998a
+}
+
+.icon-growth_login:before {
+	content: "\e9de";
+	color: #d7c9af
+}
+
+.icon-growth_share:before {
+	content: "\e9df";
+	color: #97a38c
+}
+
+.icon-growth_shop:before {
+	content: "\e9e0";
+	color: #9ea4b7
+}
+
+.icon-growth_wx:before {
+	content: "\e9e1";
+	color: #ead1d3
+}
+
+.icon-growth_user:before {
+	content: "\e9e2";
+	color: #c6bdd2
+}
+
+.icon-level_common:before {
+	content: "\e9e3";
+	color: #1b89c9
+}
+
+.icon-level_diamond:before {
+	content: "\e9e4";
+	color: #a32127
+}
+
+.icon-level_gold:before {
+	content: "\e9e5";
+	color: #d7ae4b
+}
+
+.icon-portal_coupon:before {
+	content: "\e9e6";
+	color: #d8d8d8
+}
+
+.icon-portal_score:before {
+	content: "\e9e7";
+	color: #d8d8d8
+}
+
+.icon-portal_sevice:before {
+	content: "\e9e8";
+	color: #d8d8d8
+}
+
+.icon-portal_shi:before {
+	content: "\e9e9";
+	color: #d8d8d8
+}
+
+.icon-portal_xi:before {
+	content: "\e9ea";
+	color: #d8d8d8
+}
+
+.icon-exchange:before {
+	content: "\e9dc";
+	color: #3da5af
+}
+
+.icon-lottery .path1:before {
+	content: "\e9d9";
+	color: #11c8ca
+}
+
+.icon-lottery .path2:before {
+	content: "\e9da";
+	margin-left: -1em;
+	color: #fff
+}
+
+.icon-lottery .path3:before {
+	content: "\e9db";
+	margin-left: -1em;
+	color: #fff
+}
+
+.icon-shop:before {
+	content: "\e9d6";
+	color: #e8514f
+}
+
+.icon-sound:before {
+	content: "\e9d7";
+	color: #1788c7
+}
+
+.icon-sign:before {
+	content: "\e9d8"
+}
+
+.icon-customer_face:before {
+	content: "\e9d3";
+	color: #666
+}
+
+.icon-customer_img:before {
+	content: "\e9d4";
+	color: #666
+}
+
+.icon-customer_menu:before {
+	content: "\e9d5";
+	color: #666
+}
+
+.icon-brand:before {
+	content: "\e9d2"
+}
+
+.icon-washer:before {
+	content: "\e9d0"
+}
+
+.icon-toilets:before {
+	content: "\e9d1"
+}
+
+.icon-invite:before {
+	content: "\e9cf";
+	color: #f19333
+}
+
+.icon-waiguan:before {
+	content: "\e9cd"
+}
+
+.icon-wifi:before {
+	content: "\e9ce"
+}
+
+.icon-dui:before {
+	content: "\e9cc"
+}
+
+.icon-anti-virus:before {
+	content: "\e9c0"
+}
+
+.icon-board:before {
+	content: "\e9c1"
+}
+
+.icon-bolun:before {
+	content: "\e9c2";
+	color: #464f4f
+}
+
+.icon-capacity:before {
+	content: "\e9c3"
+}
+
+.icon-door:before {
+	content: "\e9c4"
+}
+
+.icon-dry:before {
+	content: "\e9c5"
+}
+
+.icon-eye:before {
+	content: "\e9c6"
+}
+
+.icon-frequency:before {
+	content: "\e9c7"
+}
+
+.icon-gun-tong:before {
+	content: "\e9c8";
+	color: #464f4f
+}
+
+.icon-hand:before {
+	content: "\e9c9"
+}
+
+.icon-series:before {
+	content: "\e9ca"
+}
+
+.icon-whole:before {
+	content: "\e9cb"
+}
+
+.icon-member_benefit:before {
+	content: "\e9bf";
+	color: #ec754c
+}
+
+.icon-diamond_fill:before {
+	content: "\e9bb"
+}
+
+.icon-dz_logo:before {
+	content: "\e9be";
+	color: #e50012
+}
+
+.icon-cooking_stove:before {
+	content: "\e9b9"
+}
+
+.icon-dishwasher:before {
+	content: "\e9ba"
+}
+
+.icon-new:before {
+	content: "\e9bc"
+}
+
+.icon-water_closet:before {
+	content: "\e9bd"
+}
+
+.icon-warning_info:before {
+	content: "\e9b8"
+}
+
+.icon-home_circle:before {
+	content: "\e9b7";
+	color: #63cef2
+}
+
+.icon-shopping_bag:before {
+	content: "\e9b5";
+	color: #ff7a0e
+}
+
+.icon-bind_card:before {
+	content: "\e9b6";
+	color: #2dab5f
+}
+
+.icon-midea_1:before {
+	content: "\e9b4";
+	color: #0091d7
+}
+
+.icon-add_cart:before {
+	content: "\e900";
+	color: #f60
+}
+
+.icon-address_fill:before {
+	content: "\e901";
+	color: #0093d4
+}
+
+.icon-after_sale:before {
+	content: "\e902"
+}
+
+.icon-air_conditioner:before {
+	content: "\e903"
+}
+
+.icon-ali_pay:before {
+	content: "\e904"
+}
+
+.icon-answer:before {
+	content: "\e905";
+	color: #209fdd
+}
+
+.icon-bear_happy .path1:before {
+	content: "\e906";
+	color: #fff
+}
+
+.icon-bear_happy .path2:before {
+	content: "\e907";
+	margin-left: -1em;
+	color: #0092d8
+}
+
+.icon-bear_happy .path3:before {
+	content: "\e908";
+	margin-left: -1em;
+	color: #fff
+}
+
+.icon-bear_happy .path4:before {
+	content: "\e909";
+	margin-left: -1em;
+	color: #0092d8
+}
+
+.icon-bear_happy .path5:before {
+	content: "\e90a";
+	margin-left: -1em;
+	color: #0092d8
+}
+
+.icon-bear_happy .path6:before {
+	content: "\e90b";
+	margin-left: -1em;
+	color: #0092d8
+}
+
+.icon-bear_happy .path7:before {
+	content: "\e90c";
+	margin-left: -1em;
+	color: #0092d8
+}
+
+.icon-bear_happy .path8:before {
+	content: "\e90d";
+	margin-left: -1em;
+	color: #0dc0ff;
+	opacity: 0.3
+}
+
+.icon-bear_happy .path9:before {
+	content: "\e90e";
+	margin-left: -1em;
+	color: #0dc0ff;
+	opacity: 0.3
+}
+
+.icon-bear_happy .path10:before {
+	content: "\e90f";
+	margin-left: -1em;
+	color: #0092d8
+}
+
+.icon-bear_happy .path11:before {
+	content: "\e910";
+	margin-left: -1em;
+	color: #0092d8
+}
+
+.icon-bear_sigh .path1:before {
+	content: "\e911";
+	color: #767575
+}
+
+.icon-bear_sigh .path2:before {
+	content: "\e912";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-bear_sigh .path3:before {
+	content: "\e913";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-bear_sigh .path4:before {
+	content: "\e914";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-bear_sigh .path5:before {
+	content: "\e915";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-bear_sigh .path6:before {
+	content: "\e916";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-bear_sigh .path7:before {
+	content: "\e917";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-bear_sigh .path8:before {
+	content: "\e918";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-bear_sigh .path9:before {
+	content: "\e919";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-bear_sigh .path10:before {
+	content: "\e91a";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-bear_sigh .path11:before {
+	content: "\e91b";
+	margin-left: -1em;
+	color: #c0bfbf
+}
+
+.icon-bear_sigh .path12:before {
+	content: "\e91c";
+	margin-left: -1em;
+	color: #b3b2b2
+}
+
+.icon-bear_sigh .path13:before {
+	content: "\e91d";
+	margin-left: -1em;
+	color: #999898
+}
+
+.icon-bear_sigh .path14:before {
+	content: "\e91e";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-bear_sigh .path15:before {
+	content: "\e91f";
+	margin-left: -1em;
+	color: #767575
+}
+
+.icon-birthday_gift:before {
+	content: "\e920";
+	color: #ff7a0e
+}
+
+.icon-calorifier:before {
+	content: "\e921"
+}
+
+.icon-cart_fill:before {
+	content: "\e922";
+	color: #0292d8
+}
+
+.icon-cart_stroke:before {
+	content: "\e923";
+	color: #9e9e9e
+}
+
+.icon-cash_tag:before {
+	content: "\e924";
+	color: #999
+}
+
+.icon-checked_fill:before {
+	content: "\e925";
+	color: #f30
+}
+
+.icon-checked_stroke:before {
+	content: "\e926";
+	color: #0092d8
+}
+
+.icon-choose:before {
+	content: "\e927";
+	color: #1b89c9
+}
+
+.icon-circle:before {
+	content: "\e928";
+	color: #d4d4d4
+}
+
+.icon-comment_manage:before {
+	content: "\e929"
+}
+
+.icon-common_problem:before {
+	content: "\e92a"
+}
+
+.icon-coupon:before {
+	content: "\e92b"
+}
+
+.icon-coupon_1:before {
+	content: "\e92c";
+	color: #ff784c
+}
+
+.icon-coupon_2:before {
+	content: "\e92d";
+	color: #ff784d
+}
+
+.icon-coupon_3:before {
+	content: "\e92e";
+	color: #ff784b
+}
+
+.icon-coupon_left_2:before {
+	content: "\e92f";
+	color: #ff784d
+}
+
+.icon-coupon_left_3:before {
+	content: "\e930";
+	color: #ff784b
+}
+
+.icon-coupon_left_4:before {
+	content: "\e931";
+	color: #c96cd7
+}
+
+.icon-coupon_mid_3:before {
+	content: "\e932";
+	color: #ff784b
+}
+
+.icon-coupon_right_2:before {
+	content: "\e933";
+	color: #ff784d
+}
+
+.icon-coupon_right_3:before {
+	content: "\e934";
+	color: #ff784b
+}
+
+.icon-coupon_right_4:before {
+	content: "\e935";
+	color: #c96cd7
+}
+
+.icon-credit_pay:before {
+	content: "\e936"
+}
+
+.icon-dialog_box:before {
+	content: "\e937"
+}
+
+.icon-diamond:before {
+	content: "\e938"
+}
+
+.icon-down:before {
+	content: "\e939"
+}
+
+.icon-edit:before {
+	content: "\e93a"
+}
+
+.icon-edit_circle:before {
+	content: "\e93b";
+	color: #2dab5f
+}
+
+.icon-edit_square:before {
+	content: "\e93c";
+	color: #aeaeae
+}
+
+.icon-electronic_invoice:before {
+	content: "\e93d"
+}
+
+.icon-employee_benefit:before {
+	content: "\e93e";
+	color: #ff7e45
+}
+
+.icon-express_address:before {
+	content: "\e93f"
+}
+
+.icon-express_status:before {
+	content: "\e940"
+}
+
+.icon-eye2:before {
+	content: "\e941"
+}
+
+.icon-fast_repairs:before {
+	content: "\e942"
+}
+
+.icon-filtrate:before {
+	content: "\e943";
+	color: #6c6c6c
+}
+
+.icon-fittings:before {
+	content: "\e944"
+}
+
+.icon-font:before {
+	content: "\e945"
+}
+
+.icon-free_trial:before {
+	content: "\e946";
+	color: #4cbc2e
+}
+
+.icon-genuine:before {
+	content: "\e947"
+}
+
+.icon-gift:before {
+	content: "\e948";
+	color: #f19333
+}
+
+.icon-group:before {
+	content: "\e949"
+}
+
+.icon-help_center:before {
+	content: "\e94a";
+	color: #ee7c6c
+}
+
+.icon-home_appliances:before {
+	content: "\e94b"
+}
+
+.icon-home_fill:before {
+	content: "\e94c";
+	color: #0292d8
+}
+
+.icon-home_stroke:before {
+	content: "\e94d";
+	color: #9e9e9e
+}
+
+.icon-instruction_book:before {
+	content: "\e94e"
+}
+
+.icon-kitchen_major_appliances:before {
+	content: "\e94f"
+}
+
+.icon-kitchen_small_appliances:before {
+	content: "\e950"
+}
+
+.icon-left:before {
+	content: "\e951"
+}
+
+.icon-like:before {
+	content: "\e952";
+	color: #f60
+}
+
+.icon-member_day:before {
+	content: "\e953";
+	color: #f65151
+}
+
+.icon-member_level_0:before {
+	content: "\e954";
+	color: #009fe6
+}
+
+.icon-member_level_1:before {
+	content: "\e955";
+	color: #009fe6
+}
+
+.icon-member_level_2:before {
+	content: "\e956";
+	color: #009fe6
+}
+
+.icon-member_level_3:before {
+	content: "\e957";
+	color: #678997
+}
+
+.icon-member_level_4:before {
+	content: "\e958";
+	color: #678997
+}
+
+.icon-midea:before {
+	content: "\e959"
+}
+
+.icon-midea_circle:before {
+	content: "\e95a";
+	color: #0093d4
+}
+
+.icon-midea_pay:before {
+	content: "\e95b"
+}
+
+.icon-midea_product:before {
+	content: "\e95c";
+	color: #2684c6
+}
+
+.icon-midea_product_1:before {
+	content: "\e95d";
+	color: #5dc7f1
+}
+
+.icon-midea_product_2:before {
+	content: "\e95e";
+	color: #f9797a
+}
+
+.icon-midea_product_3:before {
+	content: "\e95f";
+	color: #a08fe7
+}
+
+.icon-midea_product_4:before {
+	content: "\e960";
+	color: #f8ba55
+}
+
+.icon-midea_product_5:before {
+	content: "\e961";
+	color: #73cd68
+}
+
+.icon-midea_product_6:before {
+	content: "\e962";
+	color: #fa9366
+}
+
+.icon-minus_1:before {
+	content: "\e963"
+}
+
+.icon-minus_2:before {
+	content: "\e964";
+	color: #f30
+}
+
+.icon-minus_3:before {
+	content: "\e965";
+	color: #0092d8
+}
+
+.icon-mobile_phone:before {
+	content: "\e966";
+	color: #f60
+}
+
+.icon-mobile_phone_circle:before {
+	content: "\e967";
+	color: #f29b42
+}
+
+.icon-my_benefit:before {
+	content: "\e968";
+	color: #009fe6
+}
+
+.icon-my_product:before {
+	content: "\e969";
+	color: #3dccb4
+}
+
+.icon-official_shop:before {
+	content: "\e96a";
+	color: #1b89c9
+}
+
+.icon-other_shop:before {
+	content: "\e96b"
+}
+
+.icon-pending_pay:before {
+	content: "\e96c"
+}
+
+.icon-pending_post:before {
+	content: "\e96d"
+}
+
+.icon-pending_receive:before {
+	content: "\e96e"
+}
+
+.icon-phone_fill:before {
+	content: "\e96f";
+	color: #11c8ca
+}
+
+.icon-phone_stroke:before {
+	content: "\e970"
+}
+
+.icon-photo_fill:before {
+	content: "\e971";
+	color: #999
+}
+
+.icon-photo_stroke:before {
+	content: "\e972"
+}
+
+.icon-plus:before {
+	content: "\e973";
+	color: #ddd
+}
+
+.icon-promo_code:before {
+	content: "\e974";
+	color: #ff619c
+}
+
+.icon-question_circle:before {
+	content: "\e975";
+	color: #169bdb
+}
+
+.icon-question_square:before {
+	content: "\e976";
+	color: #ff7920
+}
+
+.icon-refrigerator:before {
+	content: "\e977"
+}
+
+.icon-repairs_certificate:before {
+	content: "\e978"
+}
+
+.icon-return_top:before {
+	content: "\e979";
+	color: #717171
+}
+
+.icon-right_arrows:before {
+	content: "\e97a"
+}
+
+.icon-right_circle:before {
+	content: "\e97b";
+	color: #a7d1e4
+}
+
+.icon-score_offset:before {
+	content: "\e97c";
+	color: #ff628e
+}
+
+.icon-score_tag:before {
+	content: "\e97d";
+	color: #999
+}
+
+.icon-search:before {
+	content: "\e97e"
+}
+
+.icon-select_item:before {
+	content: "\e97f";
+	color: #f60
+}
+
+.icon-select_tag:before {
+	content: "\e980";
+	color: #209fdd
+}
+
+.icon-seller:before {
+	content: "\e981";
+	color: #0092d8
+}
+
+.icon-service:before {
+	content: "\e982"
+}
+
+.icon-service_fill:before {
+	content: "\e983";
+	color: #0093d4
+}
+
+.icon-service_policy:before {
+	content: "\e984"
+}
+
+.icon-service_stroke:before {
+	content: "\e985"
+}
+
+.icon-setting:before {
+	content: "\e986";
+	color: #31c27c
+}
+
+.icon-seven_day:before {
+	content: "\e987"
+}
+
+.icon-share:before {
+	content: "\e988";
+	color: #139adb
+}
+
+.icon-sign_in:before {
+	content: "\e989";
+	color: #2684c6
+}
+
+.icon-sort_fill:before {
+	content: "\e98a";
+	color: #0292d8
+}
+
+.icon-sort_stroke:before {
+	content: "\e98b";
+	color: #9e9e9e
+}
+
+.icon-star_fav_fill:before {
+	content: "\e98c";
+	color: #ff8a01
+}
+
+.icon-star_fav_stroke:before {
+	content: "\e98d"
+}
+
+.icon-star_score:before {
+	content: "\e98e";
+	color: #ff8a00
+}
+
+.icon-tag:before {
+	content: "\e98f";
+	color: #f60
+}
+
+.icon-top_speed:before {
+	content: "\e990";
+	color: #9f74b5
+}
+
+.icon-unionpay_1:before {
+	content: "\e991";
+	color: #fff
+}
+
+.icon-unionpay_2 .path1:before {
+	content: "\e992";
+	color: #cf0a2c
+}
+
+.icon-unionpay_2 .path2:before {
+	content: "\e993";
+	margin-left: -1.5625em;
+	color: #002856
+}
+
+.icon-unionpay_2 .path3:before {
+	content: "\e994";
+	margin-left: -1.5625em;
+	color: #007078
+}
+
+.icon-unionpay_2 .path4:before {
+	content: "\e995";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path5:before {
+	content: "\e996";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path6:before {
+	content: "\e997";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path7:before {
+	content: "\e998";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path8:before {
+	content: "\e999";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path9:before {
+	content: "\e99a";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path10:before {
+	content: "\e99b";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path11:before {
+	content: "\e99c";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path12:before {
+	content: "\e99d";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path13:before {
+	content: "\e99e";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path14:before {
+	content: "\e99f";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path15:before {
+	content: "\e9a0";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path16:before {
+	content: "\e9a1";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path17:before {
+	content: "\e9a2";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path18:before {
+	content: "\e9a3";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path19:before {
+	content: "\e9a4";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path20:before {
+	content: "\e9a5";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-unionpay_2 .path21:before {
+	content: "\e9a6";
+	margin-left: -1.5625em;
+	color: #fff
+}
+
+.icon-up:before {
+	content: "\e9a7"
+}
+
+.icon-upgrade_gift:before {
+	content: "\e9a8";
+	color: #6d8ff0
+}
+
+.icon-user:before {
+	content: "\e9a9"
+}
+
+.icon-user_fill:before {
+	content: "\e9aa";
+	color: #0292d8
+}
+
+.icon-user_stroke:before {
+	content: "\e9ab";
+	color: #9e9e9e
+}
+
+.icon-wait:before {
+	content: "\e9ac"
+}
+
+.icon-warning:before {
+	content: "\e9ad"
+}
+
+.icon-washing_machine:before {
+	content: "\e9ae"
+}
+
+.icon-wrong_1:before {
+	content: "\e9af"
+}
+
+.icon-wrong_2:before {
+	content: "\e9b0"
+}
+
+.icon-wrong_3:before {
+	content: "\e9b1";
+	color: #fff
+}
+
+.icon-wrong_4:before {
+	content: "\e9b2"
+}
+
+.icon-wx_pay:before {
+	content: "\e9b3"
+}
+
+.icon-sign:before {
+	content: "\e9d6"
+}
+/*# sourceMappingURL=midea_icon_v.css.map */

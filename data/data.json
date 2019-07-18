@@ -1,0 +1,390 @@
+{
+	"list":[
+		{
+			"src":"./data/images/index_selectedItem1.webp.jpg",
+			"title":"【预售】大1.5匹 变频空调挂机 冷暖壁挂式 智能云控  KFR-35GW/WDBN8A3@0",
+			"price":"￥99.00",
+			"proprice":"￥94"
+		},
+		{
+			"src":"./data/images/index_selectedItem2.webp.jpg",
+			"title":"美的 布谷（BUGU）洗碗机  免安装 19分钟超快洗 WiFi智能 BG-DC01",
+			"price":"￥1699.00",
+			"proprice":"￥1519"
+		},
+		{
+			"src":"./data/images/index_selectedItem3.webp.jpg",
+			"title":"【欧式自清洗】烟灶套装  18m³大吸力 宽屏拢烟 4.2kw猛火 T39+Q216B",
+			"price":"￥2399.00",
+			"proprice":"￥2327"
+		},
+		{
+			"src":"./data/images/index_selectedItem4.webp.jpg",
+			"title":"【侧吸自清洗】烟灶套装 升级19m³大吸力 高压自动洗 4.5KW火力 J119s+Q39",
+			"price":"￥2499.00",
+			"proprice":"￥2424"
+		},
+		{
+			"src":"./data/images/index_selectedItem5.webp.jpg",
+			"title":"【免安装】洗碗机 29分钟超快洗 健康水果洗 消毒烘干 4套餐具 M1-香槟金",
+			"price":"￥1799.00",
+			"proprice":"￥1729"
+		},
+		{
+			"src":"./data/images/index_selectedItem6.webp.jpg",
+			"title":"【送洗涤套装】洗碗机 嵌入式 8套餐具 智能感应油污 3.0热风烘干 节能洗 X3-T",
+			"price":"￥3299.00",
+			"proprice":"￥3200"
+		},
+		{
+			"src":"./data/images/index_selectedItem7.webp.jpg",
+			"title":"随行杯 小巧便携 移动充电 350ML容量 USB充放两用 MJ-LZ15Easy209",
+			"price":"￥199.00",
+			"proprice":"￥132"
+		},
+		{
+			"src":"./data/images/index_selectedItem8.webp.jpg",
+			"title":"【年轻派】破壁机 精钢8叶刀 高效快煮 12小时预约 MJ-PB10Power206",
+			"price":"￥899.00",
+			"proprice":"￥664"
+		},
+		{
+			"src":"./data/images/index_selectedItem9.webp.jpg",
+			"title":"【高颜值】电饭煲 3L精巧容量  IH加热 精钢厚釜内胆 纯平面板 MB-WHS30C96 ",
+			"price":"￥459.00",
+			"proprice":"￥341"
+		},
+		{
+			"src":"./data/images/index_selectedItem10.webp.jpg",
+			"title":"【热销款】电热水瓶 5L容量 3段出水 5段智能控温 断电出水 PF708c-50T",
+			"price":"￥429.00",
+			"proprice":"￥370"
+		},
+		{
+			"src":"./data/images/index_selectedItem11.webp.jpg",
+			"title":"电磁炉 匀火系列 时尚面板 送渗氮炒锅 高档法式汤锅 C21-WT2112T",
+			"price":"￥299.00",
+			"proprice":"￥269"
+		},
+		{
+			"src":"./data/images/index_selectedItem12.webp.jpg",
+			"title":"电水壶 1.5L 一体化包边壶嘴 磨砂壶身质感 大角度开盖 WHJ1512d",
+			"price":"￥109.00",
+			"proprice":"￥94"
+		},
+		{
+			"src":"./data/images/index_selectedItem13.webp.jpg",
+			"title":"【宿舍优选】小煮锅 多功能1.2L 双层防烫 双档功率 手机支架设计  MC-DY16Easy102",
+			"price":"￥189.00",
+			"proprice":"￥94"
+		},
+		{
+			"src":"./data/images/index_selectedItem14.webp.jpg",
+			"title":"电压力锅 升级7档口感 一锅双胆 匀火速热氧化盘 MY-YL50Simple101",
+			"price":"￥289.00",
+			"proprice":"￥269"
+		},
+		{
+			"src":"./data/images/index_selectedItem15.webp.jpg",
+			"title":"【大冷动力】535升冰箱 风冷无霜 手机遥控 对开门 BCD-535WKZM(E)",
+			"price":"￥2999.00",
+			"proprice":"￥2799"
+		},
+		{
+			"src":"./data/images/index_selectedItem16.webp.jpg",
+			"title":"【新品推荐】美的（Midea） 三门冰箱 风冷无霜家用节能电冰箱 BCD-258WTM(E)阳光米",
+			"price":"￥2099.00",
+			"proprice":"￥1999"
+		},
+		{
+			"src":"./data/images/index_selectedItem17.webp.jpg",
+			"title":"【预售】空调大1匹定速挂机 智能冷暖壁挂式 KFR-26GW/WDAD3@",
+			"price":"￥1899.00",
+			"proprice":"￥1829"
+		},
+		{
+			"src":"./data/images/index_selectedItem18.webp.jpg",
+			"title":"空调大2P 智能除湿 静音 定频冷暖  KFR-51LW/DY-YA400(D3)",
+			"price":"￥3799.00",
+			"proprice":"￥3699"
+		},
+		{
+			"src":"./data/images/index_selectedItem19.webp.jpg",
+			"title":"滚筒洗衣机 8KG变频 一级能效  wifi控制 MG80V330WDX",
+			"price":"￥1699.00",
+			"proprice":"￥1599"
+		},
+		{
+			"src":"./data/images/index_selectedItem20.webp.jpg",
+			"title":"加湿器 2.8L 水箱香薰机 双喷头出雾 大雾量加湿 防燥SC-3D30B",
+			"price":"￥139.00",
+			"proprice":"￥103"
+		}
+	],
+	"oven":[
+		{
+			"src":"./data/images/activity_oven_right_pic1.jpg",
+			"title":"简易趣烤,触手可及",
+			"name":"上下独立控温，均匀烧烤，便捷旋控",
+			"price":"￥175",
+			"realprice":"179",
+			"text":"PRO下单更优惠"
+		},
+		{
+			"src":"./data/images/activity_oven_right_pic2.jpg",
+			"title":"趣玩烘焙,精致生活",
+			"name":"双感温探头,9H发酵可调,360°旋转烤叉",
+			"price":"￥329",
+			"realprice":"339",
+			"text":"PRO下单更优惠"
+		},
+		{
+			"src":"./data/images/activity_oven_right_pic3.jpg",
+			"title":"速热食代,智胜一筹",
+			"name":"智能食谱,营养速解冻,电子杀菌除味",
+			"price":"￥345",
+			"realprice":"359",
+			"text":"领卷更优惠"
+		},
+		{
+			"src":"./data/images/activity_oven_right_pic3.jpg",
+			"title":"一面美味，一面艺术",
+			"name":"1.8kW蒸汽,穹顶内腔,热风嫩烤,定制食谱",
+			"price":"￥2499",
+			"realprice":"2399",
+			"text":"商品页领卷直减500"
+		}
+	],
+	"smallOven":[
+		{
+			"src":"./data/images/activity_smallOven_pic1.png",
+			"text":"【时尚精致】电烤箱 10升 双管加热 懒人模式 T1-109F",
+			"price":"139",
+			"realprice":"￥135",
+			"priceDown":"直降30"
+		},
+		{
+			"src":"./data/images/activity_smallOven_pic2.jpg",
+			"text":"电烤箱 25升上下加热 MG25NF-AD",
+			"price":"189",
+			"realprice":"￥185",
+			"priceDown":"直降30"
+		},
+		{
+			"src":"./data/images/activity_smallOven_pic3.jpg",
+			"text":"电烤箱 38升 经典家用大容量 MG38CB-AA",
+			"price":"249",
+			"realprice":"￥239",
+			"priceDown":"直降50"
+		},
+		{
+			"src":"./data/images/activity_smallOven_pic4.jpg",
+			"text":"电烤箱 32L容量 智能菜单 搪瓷内胆 T4-L326F",
+			"price":"429",
+			"realprice":"￥419",
+			"priceDown":"直降110"
+		}
+	],
+	"microwaveOven":[
+		{
+			"src":"./data/images/activity_microwaveOven_pic1.jpg",
+			"text":"【转盘加热】微波炉 21升 机械式5档火力 M1-L213B",
+			"price":"229",
+			"realprice":"￥295",
+			"priceDown":"直降60"
+		},
+		{
+			"src":"./data/images/activity_microwaveOven_pic2.jpg",
+			"text":"【变频】微波炉 智控火力 省电 静音 防水设计 M1-L201B银色",
+			"price":"449",
+			"realprice":"￥429",
+			"priceDown":"直降50"
+		},
+		{
+			"src":"./data/images/activity_microwaveOven_pic3.jpg",
+			"text":"【一键烹饪】微波炉 20升 微蒸烤一体 高效升温 营养解冻 M3-L205C（S）",
+			"price":"419",
+			"realprice":"￥398",
+			"priceDown":"直降80"
+		},
+		{
+			"src":"./data/images/activity_microwaveOven_pic4.jpg",
+			"text":"【微蒸烤一体】微波炉 20升 烧烤外焦里嫩 智能菜单  M3-L233B",
+			"price":"499",
+			"realprice":"￥475",
+			"priceDown":"直降100"
+		}
+	],
+	"embeddedOven":[
+		{
+			"src":"./data/images/activity_embeddedOven_pic1.jpg",
+			"text":"【3D立体鲜蒸】嵌入式微波炉AG025QC7-NAH 内腔自清洁 顶部不积水",
+			"price":"1799",
+			"realprice":"￥1599",
+			"priceDown":"直降200"
+		},
+		{
+			"src":"./data/images/activity_embeddedOven_pic2.jpg",
+			"text":"【湿度感应】嵌入式微波炉 TG025QJG-NAH 极光美学 电子烘干除味",
+			"price":"1999",
+			"realprice":"￥1799",
+			"priceDown":"直降200"
+		},
+		{
+			"src":"./data/images/activity_embeddedOven_pic3.jpg",
+			"text":"【36L大容量】嵌入式蒸箱TPN36TR5-SSL  一键烘干不滴水 APP远程监控",
+			"price":"2999",
+			"realprice":"￥2799",
+			"priceDown":"直降200"
+		},
+		{
+			"src":"./data/images/activity_embeddedOven_pic4.jpg",
+			"text":"【蒸烤一体】嵌入式蒸烤箱 TQN36FTZ-58 58L大容量 温控精度 双层蒸汽口",
+			"price":"3899",
+			"realprice":"￥3699",
+			"priceDown":"直降400"
+		}
+	],
+	"hotItem":[
+		{
+			"src":"./data/images/search_hotItem_pic1.webp.jpg",
+			"name":"美的 布谷（BUGU）防漏壶嘴 隐藏式底座 电水壶 BG-K1",
+			"price":"￥99.00",
+			"realprice":"￥94",
+			"text":"评论116条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic2.webp.jpg",
+			"name":"美的 布谷（BUGU）洗碗机  免安装 19分钟超快洗 WiFi智能 BG-DC01 ",
+			"price":"￥1699.00",
+			"realprice":"￥1519",
+			"text":"评论0条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic3.webp.jpg",
+			"name":"【欧式自清洗】烟灶套装  18m³大吸力 宽屏拢烟 4.2kw猛火 T39+Q216B",
+			"price":"￥2399.00",
+			"realprice":"￥2327",
+			"text":"评论26条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic4.webp.jpg",
+			"name":"【侧吸自清洗】烟灶套装 升级19m³大吸力 高压自动洗 4.5KW火力 J119s+Q39",
+			"price":"￥2499.00",
+			"realprice":"￥2424",
+			"text":"评论31条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic5.webp.jpg",
+			"name":"【免安装】洗碗机 29分钟超快洗 健康水果洗 消毒烘干 4套餐具 M1-香槟金",
+			"price":"￥1799.00",
+			"realprice":"￥1699",
+			"text":"评论80条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic6.webp.jpg",
+			"name":"【送洗涤套装】洗碗机 嵌入式 8套餐具 智能感应油污 3.0热风烘干 节能洗 X3-T",
+			"price":"￥3299.00",
+			"realprice":"￥3200",
+			"text":"评论条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic7.webp.jpg",
+			"name":"随行杯 小巧便携 移动充电 350ML容量 USB充放两用 MJ-LZ15Easy209",
+			"price":"￥199.00",
+			"realprice":"￥132",
+			"text":"评论343条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic8.webp.jpg",
+			"name":"【年轻派】破壁机 精钢8叶刀 高效快煮 12小时预约 MJ-PB10Power206",
+			"price":"￥889.00",
+			"realprice":"￥664",
+			"text":"评论82条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic9.webp.jpg",
+			"name":"【高颜值】电饭煲 3L精巧容量  IH加热 精钢厚釜内胆 纯平面板 MB-WHS30C96",
+			"price":"￥459.00",
+			"realprice":"￥361",
+			"text":"评论800条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic10.webp.jpg",
+			"name":"【热销款】电热水瓶 5L容量 3段出水 5段智能控温 断电出水 PF708c-50T",
+			"price":"￥429.00",
+			"realprice":"￥380",
+			"text":"评论256条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic11.webp.jpg",
+			"name":"电磁炉 匀火系列 时尚面板 送渗氮炒锅 高档法式汤锅 C21-WT2112T",
+			"price":"￥299.00",
+			"realprice":"￥289",
+			"text":"评论806条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic12.webp.jpg",
+			"name":"电水壶 1.5L 一体化包边壶嘴 磨砂壶身质感 大角度开盖 WHJ1512d",
+			"price":"￥109.00",
+			"realprice":"￥100",
+			"text":"评论770条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic13.webp.jpg",
+			"name":"【宿舍优选】小煮锅 多功能1.2L 双层防烫 双档功率 手机支架设计  MC-DY16Easy102",
+			"price":"￥189.00",
+			"realprice":"￥94",
+			"text":"评论72条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic14.webp.jpg",
+			"name":"电压力锅 升级7档口感 一锅双胆 匀火速热氧化盘 MY-YL50Simple101",
+			"price":"￥289.00",
+			"realprice":"￥279",
+			"text":"评论2175条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic15.webp.jpg",
+			"name":"【大冷动力】535升冰箱 风冷无霜 手机遥控 对开门 BCD-535WKZM(E)",
+			"price":"￥2999.00",
+			"realprice":"￥2799",
+			"text":"评论1381条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic16.webp.jpg",
+			"name":"【新品推荐】美的（Midea） 三门冰箱 风冷无霜家用节能电冰箱 BCD-258WTM(E)阳光米",
+			"price":"￥2099.00",
+			"realprice":"￥1999",
+			"text":"评论603条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic17.webp.jpg",
+			"name":"空调大1匹定速挂机 智能冷暖壁挂式 KFR-26GW/WDAD3@",
+			"price":"￥1899.00",
+			"realprice":"￥1800",
+			"text":"评论1707条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic18.webp.jpg",
+			"name":"空调大2P 智能除湿 静音 定频冷暖  KFR-51LW/DY-YA400(D3)",
+			"price":"￥4199.00",
+			"realprice":"￥3799",
+			"text":"评论703条"
+		},
+		{
+			"src":"./data/images/search_hotItem_pic19.webp.jpg",
+			"name":"滚筒洗衣机 8KG变频 一级能效  wifi控制 MG80V330WDX",
+			"price":"￥1899.00",
+			"realprice":"￥1599",
+			"text":"评论2860条"
+		},
+				{
+			"src":"./data/images/search_hotItem_pic20.webp.jpg",
+			"name":"加湿器 2.8L 水箱香薰机 双喷头出雾 大雾量加湿 防燥SC-3D30B",
+			"price":"￥139.00",
+			"realprice":"￥103",
+			"text":"评论145条"
+		}
+	]
+}
