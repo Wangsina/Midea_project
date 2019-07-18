@@ -124,7 +124,7 @@
 	}
 	.classify_navSide_li{
 		width: 100%;
-		height: calc((100vh - 93px) / 9);
+		height: calc((100vh - 93px) / 8);
 		border-bottom: 1px solid #eee;
 		text-align: center;
 		overflow: hidden;
@@ -136,8 +136,8 @@
 	}
 	.cf_navSide_icon{
 		display: block;
-		font-size: 3vh;
-		margin-top: 1.8vh;
+		font-size: 3.5vh;
+		margin-top: 2.5vh;
 	}
 	.cf_navSide_iconText{
 		display: block;

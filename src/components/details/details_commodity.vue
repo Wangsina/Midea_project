@@ -317,7 +317,7 @@
 			<span @click="b.msg='details_evaluate'" class="dc_eb_span3">查看全部2条评价&nbsp;<i class="midea-icon icon-right_arrows evaluate_icon"></i></span>
 		</div>
 		<div class="dc_mideabox mart">
-			<img src="../../assets/img/details_commodity._mideaPic.webp"/>
+			<img src="../../assets/img/details_commodity._mideaPic.jpg"/>
 			<h3>美的官网商城</h3>
 		    <router-link to="/index">返回商城</router-link>
 		</div>
@@ -1000,12 +1000,14 @@ export default {
 		background-color: #242733;
 		margin-left: 5px;
 		margin-top: 5px;
+		text-align: center;	
 	}
 	.dc_pro em{
 		display: block;
 		color: #ffe7b9;
 		font-size: 8px;
-		margin-top: -2px;
+		/*margin-top: -2px;*/
+		line-height: 13px;
 	}
 	.dc_watchbox{
 		width: 90%;

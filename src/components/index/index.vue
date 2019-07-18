@@ -443,7 +443,7 @@ mounted(){
 	}
 	#index_header_logo{
 		position: absolute;
-		left: 45%;
+		left: 44%;
 		top: 50%;
 		transform: translateY(-50%);
 	}

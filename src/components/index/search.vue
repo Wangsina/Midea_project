@@ -279,12 +279,14 @@
 		background-color: #242733;
 		margin-left: 5px;
 		margin-top: 20px;
+		text-align: center;
 	}
 	.aC_hotItem_pro em{
 		display: block;
 		color: #ffe7b9;
 		font-size: 8px;
-		margin-top: -2px;
+		line-height: 13px;
+		/*margin-top: -2px;*/
 	}
 	.aC_hotItem_comments{
 		float: right;

@@ -6,7 +6,7 @@
 			</div>
 			<span>购物车</span>
 		</div>
-		<!--<img class="buyCar_pic" src="../../assets/img/buyCar_pic1.webp"/>-->
+		<!--<img class="buyCar_pic" src="../../assets/img/buyCar_pic1.jpg"/>-->
 		<!--<p class="buyCar_text">购物车还是空的，快去挑选商品吧~</p>-->
 		<div id="buyCar_address">
 			<i class="midea-icon icon-express_address addr_icon"></i>

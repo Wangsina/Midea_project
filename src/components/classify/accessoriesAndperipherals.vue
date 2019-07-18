@@ -59,13 +59,13 @@
 			</li>
 			<li>
 				<router-link to="">
-					<img src="../../assets/img/aAp_PopularCategory10.webp"/>
+					<img src="../../assets/img/aAp_PopularCategory10.jpg"/>
 					<P>洗碗机洗涤剂</P>
 				</router-link>
 			</li>
 			<li>
 				<router-link to="">
-					<img src="../../assets/img/aAp_PopularCategory11.webp"/>
+					<img src="../../assets/img/aAp_PopularCategory11.jpg"/>
 					<P>空调遥控器</P>
 				</router-link>
 			</li>

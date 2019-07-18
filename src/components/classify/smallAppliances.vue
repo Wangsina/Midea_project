@@ -11,7 +11,7 @@
 			</li>
 			<li>
 				<router-link to="">
-					<img src="../../assets/img/sA_PopularCategory2.webp"/>
+					<img src="../../assets/img/sA_PopularCategory2.jpg"/>
 					<P>电磁炉</P>
 				</router-link>
 			</li>
@@ -71,7 +71,7 @@
 			</li>
 			<li>
 				<router-link to="">
-					<img src="../../assets/img/sA_PopularCategory12.webp"/>
+					<img src="../../assets/img/sA_PopularCategory12.jpg"/>
 					<P>面包机</P>
 				</router-link>
 			</li>

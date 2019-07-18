@@ -23,7 +23,7 @@
 			</li>
 			<li>
 				<router-link to="">
-					<img src="../../assets/img/aC_PopularCategory4.webp"/>
+					<img src="../../assets/img/aC_PopularCategory4.jpg"/>
 					<P>移动空调</P>
 				</router-link>
 			</li>
